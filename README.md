@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/windows_11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen(TM)%205-5500U%20CPU%20@%202.1GHz%20%20Up%20to%204.0GHz-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Graphic-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20-Graphics%20-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 
