@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://WajahatMasood.io)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+People!+👋;Wajaht+Masood+Here....;Welcome+TO+My+Github!&center=true&size=30"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+People!+👋;Sohaib+Ahmed+Here....;Welcome+TO+My+Github!&center=true&size=30"> 
   </a>
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
@@ -32,10 +32,10 @@
  <i> 🤝🏻 CONNECT WITH ME</i>
 </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/wajahat-masood-17933222a/"><img src="https://img.shields.io/badge/-Wajahat%20Masood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:wajahatmasood12@gmail.com"><img src="https://img.shields.io/badge/-wajahatmasood12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/wajahat_o_o_/"><img src="https://img.shields.io/badge/-@wajahat_o_o_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://www.facebook.com/nibras25/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/sohaib-ahmed-digital-marketing-facebook-instagram-ads-wordpress-expert/"><img src="https://img.shields.io/badge/-Wajahat%20Masood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sohaibahmed76@hotmail.com"><img src="https://img.shields.io/badge/-sohaibahmed76@hotmail.com-D14836?style=flat&logo=hotmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/golluu__/"><img src="https://img.shields.io/badge/-@wajahat_o_o_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.facebook.com/profile.php?id=100083876280572"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 </p>
 
 <!-- <p align='center'>
@@ -149,7 +149,7 @@
 <h2 align="center"><i>⚡ GITHUB STATS</i></h2>
 <p align="center">
   
-<!--   <img align="center" alt="Wajahat Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" /> -->
+<!--   <img align="center" alt="Sohaib Github Stats" src="https://avatars.githubusercontent.com/u/61019346?s=400&u=61100d47d0c0c06c029f854e01c3af2a9b00144d&v=4" /> -->
     
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatmasood&show_icons=true&locale=en&layout=compact" alt="wajahatmasood" /></p> -->
 
@@ -184,6 +184,12 @@
   CodeIgniter
 📆 july-2022 - Aug-2022\
 📍 **POF
+
+
+- 👨‍💻 **CAPREGSOFT Internship**\
+  MERN STACK
+📆 SEPT-2022 - ONGOING\
+📍 **CARPREGSOFT NEW CITY,WAH CANTT, PUNJAB, PAKISTAN
   
 
 
