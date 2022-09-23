@@ -149,13 +149,10 @@
 <h2 align="center"><i>⚡ GITHUB STATS</i></h2>
 <p align="center">
   
-<!--   <img align="center" alt="Sohaib Github Stats" src="https://avatars.githubusercontent.com/u/61019346?s=400&u=61100d47d0c0c06c029f854e01c3af2a9b00144d&v=4" /> -->
-    
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajahatmasood&show_icons=true&locale=en&layout=compact" alt="wajahatmasood" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajahatmasood&show_icons=true&locale=en" alt="wajahatmasood" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaib99&show_icons=true&locale=en" alt="sohaib ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatmasood&" alt="wajahatmasood" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaib99&" alt="sohaib ahmed" /></p>
 
  </p>
  
@@ -204,7 +201,7 @@
 **Programming**
 
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows_11-0078D6?logo=windows&logoColor=white" />
 
 **Operating Systems**
 
@@ -215,12 +212,10 @@
 
 
  
-  [twitter]: https://twitter.com/Nibras80624930
-  [reddit]: https://www.reddit.com/user/Nibras_Ahmed
-  [facebook]: https://www.facebook.com/nibras25/
-  [instagram]: https://www.instagram.com/nibras.ahmed.1/
-  [youtube]: https://www.youtube.com/c/MINGO07
-  [linkedin]: https://www.linkedin.com/in/nibras-ahmed-9031b2201/
+  
+  
+ 
+<!--   [linkedin]: https://www.linkedin.com/in/nibras-ahmed-9031b2201/ -->
   
   
   <!-- Footer -->
