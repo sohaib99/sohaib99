@@ -32,7 +32,7 @@
  <i> 🤝🏻 CONNECT WITH ME</i>
 </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/sohaib-ahmed-digital-marketing-facebook-instagram-ads-wordpress-expert/"><img src="https://img.shields.io/badge/-Wajahat%20Masood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sohaib-ahmed-digital-marketing-facebook-instagram-ads-wordpress-expert/"><img src="[https://img.shields.io/badge/-SOHAIB%20AHMED-0077B5?style=flat&logo=Linkedin&logoColor=white]"/></a>
 <a href="mailto:sohaibahmed76@hotmail.com"><img src="https://img.shields.io/badge/-sohaibahmed76@hotmail.com-D14836?style=flat&logo=hotmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/golluu__/"><img src="https://img.shields.io/badge/-@wajahat_o_o_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://www.facebook.com/profile.php?id=100083876280572"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
